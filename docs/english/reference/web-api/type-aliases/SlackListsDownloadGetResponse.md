@@ -13,35 +13,35 @@ Defined in: [packages/web-api/src/types/response/SlackListsDownloadGetResponse.t
 ### download\_url?
 
 ```ts
-optional download_url: string;
+optional download_url?: string;
 ```
 
 ### error?
 
 ```ts
-optional error: string;
+optional error?: string;
 ```
 
 ### needed?
 
 ```ts
-optional needed: string;
+optional needed?: string;
 ```
 
 ### ok?
 
 ```ts
-optional ok: boolean;
+optional ok?: boolean;
 ```
 
 ### provided?
 
 ```ts
-optional provided: string;
+optional provided?: string;
 ```
 
 ### status?
 
 ```ts
-optional status: string;
+optional status?: string;
 ```

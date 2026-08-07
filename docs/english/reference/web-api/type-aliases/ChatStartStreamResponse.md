@@ -13,35 +13,35 @@ Defined in: [packages/web-api/src/types/response/ChatStartStreamResponse.ts:2](h
 ### channel?
 
 ```ts
-optional channel: string;
+optional channel?: string;
 ```
 
 ### error?
 
 ```ts
-optional error: string;
+optional error?: string;
 ```
 
 ### needed?
 
 ```ts
-optional needed: string;
+optional needed?: string;
 ```
 
 ### ok?
 
 ```ts
-optional ok: boolean;
+optional ok?: boolean;
 ```
 
 ### provided?
 
 ```ts
-optional provided: string;
+optional provided?: string;
 ```
 
 ### ts?
 
 ```ts
-optional ts: string;
+optional ts?: string;
 ```

@@ -4183,7 +4183,7 @@ Retrieve a team's profile.
 ### token?
 
 ```ts
-readonly optional token: string;
+readonly optional token?: string;
 ```
 
 Defined in: [packages/web-api/src/WebClient.ts:149](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/WebClient.ts#L149)

@@ -13,41 +13,41 @@ Defined in: [packages/web-api/src/types/response/SlackListsItemsListResponse.ts:
 ### error?
 
 ```ts
-optional error: string;
+optional error?: string;
 ```
 
 ### items?
 
 ```ts
-optional items: SlackListsItem[];
+optional items?: SlackListsItem[];
 ```
 
 ### needed?
 
 ```ts
-optional needed: string;
+optional needed?: string;
 ```
 
 ### ok?
 
 ```ts
-optional ok: boolean;
+optional ok?: boolean;
 ```
 
 ### provided?
 
 ```ts
-optional provided: string;
+optional provided?: string;
 ```
 
 ### response\_metadata?
 
 ```ts
-optional response_metadata: object;
+optional response_metadata?: object;
 ```
 
 #### response\_metadata.next\_cursor?
 
 ```ts
-optional next_cursor: string;
+optional next_cursor?: string;
 ```

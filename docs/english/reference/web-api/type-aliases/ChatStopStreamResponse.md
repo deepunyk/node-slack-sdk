@@ -13,41 +13,41 @@ Defined in: [packages/web-api/src/types/response/ChatStopStreamResponse.ts:3](ht
 ### channel?
 
 ```ts
-optional channel: string;
+optional channel?: string;
 ```
 
 ### error?
 
 ```ts
-optional error: string;
+optional error?: string;
 ```
 
 ### message?
 
 ```ts
-optional message: ChatStopStreamResponseMessage;
+optional message?: ChatStopStreamResponseMessage;
 ```
 
 ### needed?
 
 ```ts
-optional needed: string;
+optional needed?: string;
 ```
 
 ### ok?
 
 ```ts
-optional ok: boolean;
+optional ok?: boolean;
 ```
 
 ### provided?
 
 ```ts
-optional provided: string;
+optional provided?: string;
 ```
 
 ### ts?
 
 ```ts
-optional ts: string;
+optional ts?: string;
 ```

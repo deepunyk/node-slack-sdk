@@ -13,7 +13,7 @@ Defined in: [packages/web-api/src/types/request/admin/users.ts:158](https://gith
 ### date\_end\_of\_support?
 
 ```ts
-optional date_end_of_support: number;
+optional date_end_of_support?: number;
 ```
 
 Defined in: [packages/web-api/src/types/request/admin/users.ts:163](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L163)
@@ -28,7 +28,7 @@ If not provided will include all announced end of support cycles. Defaults to `0
 ### date\_sessions\_started?
 
 ```ts
-optional date_sessions_started: number;
+optional date_sessions_started?: number;
 ```
 
 Defined in: [packages/web-api/src/types/request/admin/users.ts:168](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/admin/users.ts#L168)
@@ -43,7 +43,7 @@ If not provided will start six months ago.
 ### token?
 
 ```ts
-optional token: string;
+optional token?: string;
 ```
 
 Defined in: [packages/web-api/src/types/request/common.ts:43](https://github.com/slackapi/node-slack-sdk/blob/main/packages/web-api/src/types/request/common.ts#L43)

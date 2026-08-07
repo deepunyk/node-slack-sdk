@@ -1,6 +1,6 @@
 [@slack/web-api](../index.md) / Method
 
-# Type Alias: Method()\<MethodArguments, MethodResult\>
+# Type Alias: Method\<MethodArguments, MethodResult\>
 
 ```ts
 type Method<MethodArguments, MethodResult> = (options?) => Promise<MethodResult>;

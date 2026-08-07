@@ -13,29 +13,29 @@ Defined in: [packages/web-api/src/types/response/SlackListsItemsCreateResponse.t
 ### error?
 
 ```ts
-optional error: string;
+optional error?: string;
 ```
 
 ### item?
 
 ```ts
-optional item: SlackListsItem;
+optional item?: SlackListsItem;
 ```
 
 ### needed?
 
 ```ts
-optional needed: string;
+optional needed?: string;
 ```
 
 ### ok?
 
 ```ts
-optional ok: boolean;
+optional ok?: boolean;
 ```
 
 ### provided?
 
 ```ts
-optional provided: string;
+optional provided?: string;
 ```
